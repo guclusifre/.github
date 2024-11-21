@@ -6,7 +6,7 @@ Muscle Password is a powerful, random password generator designed to enhance sec
 
 ### Features
 Strong Password Generation: Create secure, random passwords with ease.
-Web and Extension Support: Access the tool on both the [musclepassword.com](http://musclepassword.com) website and the Chrome extension.
+Web and Extension Support: Access the tool on both the [musclepassword.com](http://musclepassword.com) website and the [Chrome extension](https://chromewebstore.google.com/detail/muscle-password/iimjcckbcjoehbfekigjpnlgmjllmgdk).
 Easy to Use: Generate and copy strong passwords with a single click.
 
 ### Quick Start
